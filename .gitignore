@@ -1,2 +1,4 @@
 # ignore .ipynb files
 .ipynb_checkpoints
+# ignore backup files
+*.bak
