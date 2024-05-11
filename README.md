@@ -1,6 +1,6 @@
 # Jupyter
 
-A collection of notebooks I have written in various professional and educational projects, where proprietary info has been scrubbed from the files.
+A collection of notebooks I have written in various professional, educational, and personal projects. I enjoy using Jupyter Lab and Notebook to write and execute code on the fly. If I am deploying scripts, they are developed in Jupyter, then tested in Spyder. All proprietary info and sensitive data have been scrubbed from the files.
 
 **Purpose**: this repository is a porfolio of my work, satisfying the following objectives:
 
